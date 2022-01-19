@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/balanco1"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco2"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco3"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco4"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco5"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco6"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco7"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco8"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco9"
+    android:duration="180"/>
+    <item android:drawable="@drawable/balanco9"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco8"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco7"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco6"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco5"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco4"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco3"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco2"
+        android:duration="180"/>
+    <item android:drawable="@drawable/balanco2"
+        android:duration="180"/>
+
+
+</animation-list>

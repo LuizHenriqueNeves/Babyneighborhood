@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pais da Vizinhanca</string>
+    <string name="title_activity_tela_inicial">TelaInicial</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nome</string>
+    <string name="nav_header_subtitle">email@email.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+    <string name="tela_BemVindo">Bem-Vindo ao Pais da Vizinhança!
+                            Trazemos uma solução para os pais que na correria do dia-a-dia
+                            sofrem com a falta de tempo para cuidar dos seus filhos.
+                            Por meio deste app, é possivel criar uma rede de pais solidários que
+                            tenham a disponibilidade e a intenção de compartilhar cuidados aos seus filhos.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

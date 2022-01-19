@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_margin="16dp"
+    tools:context=".GruposOnline">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:weightSum="10"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt_nomeGrupo"
+            android:text="Tela grupos online"
+            android:textSize="24sp"
+            android:layout_weight="8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</FrameLayout>
